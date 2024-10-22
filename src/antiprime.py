@@ -21,7 +21,7 @@ def main(n) :
 					divisors_j=divisors_j+1
 				k=k+1
 			if divisors_j>=divisors_n:
-				return("not anti-prime")
+				return("non-anti-prime")
 			j=j+1
 
 
@@ -33,7 +33,7 @@ def main(n) :
 		return("anti-prime")
 
 ## DO NOT REMOVE THIS LINE BELOW
-n=int((sys.argv[1]))
+n=int(sys.argv[1])
 if __name__ == "__main__" :
 
 
