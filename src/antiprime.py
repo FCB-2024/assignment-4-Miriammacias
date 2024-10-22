@@ -34,7 +34,7 @@ def main(n) :
 
 ## DO NOT REMOVE THIS LINE BELOW
 if __name__ == "__main__" :
-n=int(sys.argv[1])
+	n=int(sys.argv[1])
 
 
 	## MODIFY THE LINE BELOW AND ADD BEFORE WHATEVER LINES ARE NECESSARY
