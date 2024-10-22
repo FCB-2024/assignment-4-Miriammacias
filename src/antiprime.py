@@ -33,8 +33,8 @@ def main(n) :
 		return("anti-prime")
 
 ## DO NOT REMOVE THIS LINE BELOW
-n=int(sys.argv[1])
 if __name__ == "__main__" :
+n=int(sys.argv[1])
 
 
 	## MODIFY THE LINE BELOW AND ADD BEFORE WHATEVER LINES ARE NECESSARY
